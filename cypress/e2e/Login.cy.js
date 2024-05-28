@@ -1,5 +1,5 @@
 describe('login', () => {
   it('passes', () => {
-    cy.visit('https://youtube.com')
+    cy.visit('https://www.amazon.com')
   })
 })
